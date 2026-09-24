@@ -418,6 +418,8 @@
                 Une démarche progressive pour valoriser les compétences acquises.
             </p>
 
+            <img src="/images/azeggouar.png" alt="">
+
         </div>
 
 
